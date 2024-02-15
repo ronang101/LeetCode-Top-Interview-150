@@ -1,2 +1,2 @@
 # LeetCode-Top-Interview-150
-These are my many solutions in python and js to the Leet Code top interview 150 questions
+These are my many solutions in python and js to the Leet Code top interview 150 questions, I have uploaded these solutions to highlight my coding ability. Also if anybody is solving these problems these solutions I have uploaded were worked on over a 16 week period and solve the problems in many different ways so please feel free to use these solutions for inspiration.
